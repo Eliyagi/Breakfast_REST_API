@@ -1,0 +1,12 @@
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\bin\Debug\net7.0\Breakfast.Contracts.deps.json
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\bin\Debug\net7.0\Breakfast.Contracts.dll
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\bin\Debug\net7.0\Breakfast.Contracts.pdb
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\Breakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\Breakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\Breakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\Breakfast.Contracts.AssemblyInfo.cs
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\Breakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\Breakfast.Contracts.dll
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\refint\Breakfast.Contracts.dll
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\Breakfast.Contracts.pdb
+C:\Users\אליה גינדי\Desktop\practice.net\breakfast\Breakfast.Contracts\obj\Debug\net7.0\ref\Breakfast.Contracts.dll
