@@ -7,6 +7,7 @@ using ErrorOr package and REST client extenion.
 
 Contains 2 projects
 Breakfast.contracts models the definitions of the API.
+
 Breakfast contains the logic of the project
 
 I separated the project for
